@@ -1,0 +1,16 @@
+main {
+  font-size: 1.6rem;
+}
+
+footer {
+  font-size: 1.4rem;
+  margin-top: 100px;
+}
+
+footer a {
+  color: #088;
+}
+
+footer a:hover {
+  color: #232323;
+}
